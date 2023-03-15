@@ -13,7 +13,7 @@ body{
 /* ******************Navbar*************** */
 
 .nav-bar{
-    /* border: 1px solid; */
+    padding-left: 15px;
 }
 
 #check,#toggle-icon{
@@ -28,6 +28,7 @@ body{
 
 .nav-logo{
     padding: 10px;
+    padding-top:1px;
     align-items: center;
 }
 
@@ -73,6 +74,7 @@ body{
 
 .book-now{
     padding:25px;
+    padding-right: 35px;
 }
 
 .nav-button{
@@ -213,6 +215,7 @@ body{
 .category-head{
     width:70%;
     padding: 15px;
+    padding-left: 35px;
 }
 
 .blank-div,.arrow-div{
